@@ -1,0 +1,27 @@
+/** Common resume action verbs used by the ATS rule engine. */
+module.exports = [
+  'achieved', 'adapted', 'administered', 'advised', 'advocated', 'allocated', 'analysed', 'analyzed',
+  'applied', 'architected', 'arranged', 'assembled', 'assessed', 'authored', 'automated', 'awarded',
+  'boosted', 'built', 'calculated', 'chaired', 'coached', 'coded', 'collaborated', 'collected',
+  'communicated', 'compiled', 'completed', 'composed', 'computed', 'conducted', 'configured',
+  'constructed', 'consulted', 'contributed', 'converted', 'coordinated', 'created', 'debugged',
+  'decreased', 'delivered', 'demonstrated', 'designed', 'detected', 'developed', 'devised',
+  'diagnosed', 'directed', 'discovered', 'documented', 'drafted', 'earned', 'edited', 'eliminated',
+  'enabled', 'engineered', 'enhanced', 'established', 'evaluated', 'executed', 'expanded',
+  'expedited', 'explained', 'facilitated', 'fashioned', 'fixed', 'forecasted', 'formed',
+  'formulated', 'founded', 'generated', 'guided', 'handled', 'headed', 'identified', 'illustrated',
+  'implemented', 'improved', 'increased', 'influenced', 'initiated', 'inspected', 'installed',
+  'instituted', 'instructed', 'integrated', 'interpreted', 'interviewed', 'introduced', 'invented',
+  'investigated', 'launched', 'led', 'maintained', 'managed', 'mapped', 'measured', 'mentored',
+  'migrated', 'minimised', 'minimized', 'modelled', 'modeled', 'moderated', 'modified', 'monitored',
+  'negotiated', 'operated', 'optimised', 'optimized', 'organised', 'organized', 'oversaw',
+  'performed', 'planned', 'prepared', 'presented', 'prioritised', 'prioritized', 'processed',
+  'produced', 'programmed', 'projected', 'promoted', 'proposed', 'prototyped', 'published',
+  'raised', 'redesigned', 'reduced', 'refactored', 'refined', 'reorganised', 'reorganized',
+  'repaired', 'reported', 'researched', 'resolved', 'restored', 'restructured', 'reviewed',
+  'revised', 'revamped', 'scaled', 'scheduled', 'secured', 'selected', 'served', 'simplified',
+  'solved', 'spearheaded', 'standardised', 'standardized', 'streamlined', 'strengthened',
+  'structured', 'studied', 'supervised', 'supported', 'synthesised', 'synthesized', 'taught',
+  'tested', 'trained', 'transformed', 'translated', 'troubleshot', 'tutored', 'upgraded',
+  'utilised', 'utilized', 'validated', 'verified', 'visualised', 'visualized', 'wrote'
+];
